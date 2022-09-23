@@ -1,0 +1,75 @@
+.parent_background{
+
+  height: 100vh;
+
+  width: 100vw;
+
+  background-color: skyblue;
+
+  position: relative;
+
+  
+
+}
+
+  .child_background{
+
+   width:50vw;
+
+   height: 50vw;
+
+   background-color: yellow;
+
+   position: absolute;
+
+   left: 25%;
+
+   top:25%;
+
+ }
+
+.email{
+
+  position: absolute;
+
+  top: 2%;
+
+  right: 10%;
+
+  height: 2vh;
+
+  width: 40vw;
+
+}
+
+.password{
+
+ position: absolute;
+
+  top:25%;
+
+  right: 10%;
+
+  height: 2vh;
+
+  width:40vw;
+
+  
+
+}
+
+.btn{
+
+  height: 2vh;
+
+  width: 4vh;
+
+  background-color: red;
+
+  position: absolute;
+
+  top:79%;
+
+  right: 7%;
+
+}
